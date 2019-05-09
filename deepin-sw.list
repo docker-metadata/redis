@@ -1,0 +1,5 @@
+# deepin sunway sources
+deb http://s135/sunway kui main non-free
+deb http://s135/sunway kui-backports main non-free
+deb http://s135/sunway kui-updates main non-free
+
